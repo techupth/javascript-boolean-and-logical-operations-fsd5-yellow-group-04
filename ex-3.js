@@ -1,8 +1,6 @@
-//Exercise #3: Debugging (Boolean & Logical Operations)
-
-//Start coding here
-const numberA = 100;
-const numberB = "20";
+// Exercise #3: Code Debugging
+let numberA = 100;
+let numberB = 20;
 
 numberA = 10;
 
